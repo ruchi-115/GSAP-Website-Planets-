@@ -1,4 +1,4 @@
-@import url("http://fonts.cdnfonts.com/css/alphacentauri");
+/* @import url("http://fonts.cdnfonts.com/css/alphacentauri"); */
 @import url('https://fonts.googleapis.com/css2?family=Fascinate&display=swap');
 .container {
   width: 600%;
@@ -16,7 +16,7 @@ body {
   margin: 0;
   height: 100%;
   -webkit-overflow-scrolling: touch;
-  font-family: "AlphaCentauri", "Fasinate", sans-serif, Arial;
+  font-family: "Fascinate", sans-serif, Arial;
   background-color: black;
 }
 
